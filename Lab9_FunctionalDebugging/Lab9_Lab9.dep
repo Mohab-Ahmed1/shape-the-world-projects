@@ -1,0 +1,7 @@
+Dependencies for Project 'Lab9', Target 'Lab9': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::.\ARMCC
+F (.\startup.s)(0x57018D78)(--cpu Cortex-M4 -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Luminary--pd "__UVISION_VERSION SETA 535"--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\main.c)(0x630527C6)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections --signed_chars -I .. -I ..\..\..-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Luminary-D__UVISION_VERSION="535" -Drvmdk -DPART_LM4F120H5QR-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (TExaS.h)(0x56995520)
+I (..\tm4c123gh6pm.h)(0x51D45492)
+F (.\texas.o)(0x56995520)()
